@@ -1,0 +1,1 @@
+# TC4033.10.Equipo13-3.2.Algoritmos_de_mejoramiento_de_imagenes_en_el_dominio_espacial
