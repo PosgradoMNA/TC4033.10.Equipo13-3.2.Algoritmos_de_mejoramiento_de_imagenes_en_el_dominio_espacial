@@ -5,6 +5,7 @@
 - César Iván Pedrero Martínez
 - Erik López Hernández
 - Carlos Alberto Reynoso González
+- Julio Hernandez Bucio
 
 ## Instrucciones
 
