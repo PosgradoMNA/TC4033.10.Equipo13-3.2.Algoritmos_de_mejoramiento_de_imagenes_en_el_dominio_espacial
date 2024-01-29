@@ -6,6 +6,7 @@
 - Erik López Hernández
 - Carlos Alberto Reynoso González
 - Julio Hernandez Bucio
+- Victor Hugo Avila Felipe
 
 ## Instrucciones
 
